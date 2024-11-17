@@ -1,0 +1,59 @@
+Classification Report:
+
+                    precision    recall  f1-score   support
+
+     BaseballPitch       1.00      1.00      1.00        25
+        Basketball       1.00      0.97      0.99        37
+        BenchPress       1.00      1.00      1.00        27
+            Biking       1.00      0.95      0.97        40
+          Billards       1.00      1.00      1.00        31
+      BreastStroke       1.00      0.96      0.98        23
+      CleanAndJerk       1.00      0.95      0.97        20
+            Diving       1.00      1.00      1.00        30
+          Drumming       0.97      1.00      0.98        30
+           Fencing       0.96      1.00      0.98        27
+         GolfSwing       1.00      0.93      0.97        30
+          HighJump       0.97      0.93      0.95        30
+         HorseRace       1.00      1.00      1.00        20
+       HorseRiding       1.00      0.98      0.99        45
+          HulaHoop       1.00      1.00      1.00        25
+      JavelinThrow       0.83      0.95      0.88        20
+     JugglingBalls       1.00      1.00      1.00        20
+          JumpRope       1.00      1.00      1.00        20
+       JumpingJack       0.97      1.00      0.98        28
+          Kayaking       1.00      1.00      1.00        30
+            Lunges       0.92      1.00      0.96        24
+    MilitaryParade       0.96      1.00      0.98        23
+            Mixing       1.00      1.00      1.00        22
+         Nunchucks       0.97      0.97      0.97        36
+      PizzaTossing       0.95      0.90      0.93        21
+     PlayingGuitar       1.00      1.00      1.00        36
+      PlayingPiano       1.00      1.00      1.00        22
+      PlayingTabla       1.00      1.00      1.00        26
+     PlayingViolin       1.00      1.00      1.00        21
+         PoleVault       1.00      0.94      0.97        31
+       PommelHorse       1.00      1.00      1.00        25
+            Pullup       0.95      0.91      0.93        22
+             Punch       1.00      1.00      1.00        25
+           PushUps       1.00      1.00      1.00        22
+RockClimbingIndoor       1.00      0.96      0.98        28
+      RopeClimbing       0.96      1.00      0.98        24
+            Rowing       0.93      1.00      0.97        28
+         SalsaSpin       1.00      1.00      1.00        22
+     SkateBoarding       0.94      0.91      0.92        33
+            Skiing       0.94      1.00      0.97        30
+            Skijet       1.00      0.96      0.98        24
+    SoccerJuggling       0.94      0.94      0.94        34
+             Swing       0.94      1.00      0.97        31
+            TaiChi       0.89      1.00      0.94        16
+       TennisSwing       1.00      0.97      0.99        34
+       ThrowDiscus       0.96      0.92      0.94        24
+ TrampolineJumping       1.00      1.00      1.00        20
+ VolleyballSpiking       1.00      0.97      0.98        30
+    WalkingWithDog       0.88      0.95      0.91        22
+              YoYo       1.00      0.96      0.98        23
+
+          accuracy                           0.98      1337
+         macro avg       0.98      0.98      0.98      1337
+      weighted avg       0.98      0.98      0.98      1337
+

@@ -1,4 +1,4 @@
-# Activity Recognition using MobileNetGRU
+# Activity Recognition using MobileNetv2 and GRU
 
 ![Training](training.png)
 
